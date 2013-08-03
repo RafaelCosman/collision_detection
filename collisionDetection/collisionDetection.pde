@@ -2,6 +2,6 @@ void setup()
 {
 }
 
-void main()
+void draw()
 {
 }
